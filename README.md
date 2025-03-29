@@ -1,3 +1,11 @@
+## Aviso Importante
+
+**Aviso Legal:** Este repositório contém código para análise de dados financeiros, mas **não constitui uma recomendação de investimento**. As análises e modelos apresentados são apenas para fins educativos e informativos. As decisões de investimento devem ser tomadas com base em uma avaliação completa e, preferencialmente, com o apoio de um consultor financeiro qualificado.
+
+O autor não se responsabiliza por quaisquer danos, perdas ou ações legais decorrentes do uso deste código ou das informações aqui contidas.
+
+**Não utilize este código ou qualquer dos resultados para tomar decisões financeiras sem orientação adequada.**
+
 ---
 
 # Análise Financeira de Ações
