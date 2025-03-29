@@ -1,0 +1,9 @@
+yfinance
+streamlit
+reportlab
+pandas
+numpy
+altair
+matplotlib
+statsmodels
+requests
